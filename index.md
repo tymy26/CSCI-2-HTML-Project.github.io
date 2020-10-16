@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Economics</title>
+    </head>
+    <body>
+        <h1> Economics</h1>
+        <p>Economics is transfering of wealth.</p>
+        <h2> Ways to make money fast:</h2>
+        <ol>
+            <li>Sell your old things online.</li>
+            <li>Do online surveys</li>
+            <li>Tutor children online</li>
+            <li>Build Websites for other people</li>
+        </ol>
+        <h3>Here's a website on some more ways to make money fast:</h3>
+        <p><a href="https://www.entrepreneur.com/article/298348">Entreprenuer.com</a></p>
+        <img src=https://th.bing.com/th/id/OIP.F5gzxd1XZ5X4dsKpm5KUoAHaDF?pid=Api&rs=1>     
+            
+            
+                
+            
+         
+                        
+                        
+    </body>
+</html>
 
-You can use the [editor on GitHub](https://github.com/tymy26/CSCI-2-HTML-Project.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tymy26/CSCI-2-HTML-Project.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

@@ -26,3 +26,9 @@
 
 </html>
 
+<css> 
+    .title {
+        color: blue;
+        
+        
+    
